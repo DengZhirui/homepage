@@ -65,11 +65,11 @@ Chen Xu\*, **Zhirui Deng**\*, Clara Rus\*, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhic
 </div>
 </div>
 
-- ``SIGIR2024`` [JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888)**Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
+- ``SIGIR2024`` [JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888), **Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
 
 - ``TOIS`` [Multi-grained Document Modeling for Search Result Diversification](https://dl.acm.org/doi/pdf/10.1145/3652852) **Zhirui Deng**, Zhicheng Dou, Zhan Su, Ji-Rong Wen
 
-- ``Information Retrieval Journal`` [DeepQFM: a deep learning based query facets mining method](https://link.springer.com/content/pdf/10.1007/s10791-023-09427-0.pdf) **Zhirui Deng**, Zhicheng Dou, Ji-Rong Wen
+- ``Information Retrieval Journal`` [DeepQFM: a deep learning based query facets mining method](https://link.springer.com/content/pdf/10.1007/s10791-023-09427-0.pdf), **Zhirui Deng**, Zhicheng Dou, Ji-Rong Wen
 
 # 🎖 Honors and Awards
 - *2024.10* Excellent Study Scholarship
