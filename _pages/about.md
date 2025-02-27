@@ -53,7 +53,7 @@ Chen Xu\*, **Zhirui Deng**\*, Clara Rus\*, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhic
 </div>
 </div>
 
-- [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?), **Zhirui Deng**, Ruibin Xiong, Yutao Zhu, Mang Wang, Weipeng Chen, Zhicheng Dou, Ji-Rong Wen, **Arxiv**
+- <div class="badge">Arxiv</div>&nbsp;[From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?), **Zhirui Deng**, Ruibin Xiong, Yutao Zhu, Mang Wang, Weipeng Chen, Zhicheng Dou, Ji-Rong Wen
 
 - ``SIGIR2024`` [JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888)**Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
 
