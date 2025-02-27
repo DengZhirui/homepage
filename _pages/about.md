@@ -34,7 +34,7 @@ My research interest includes large language model (LLM) agents, diversity, and 
 
 [FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms](https://arxiv.org/pdf/2502.11883)
 
-Chen Xu†, **Zhirui Deng†**, Clara Rus†, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
+Chen Xu\*, **Zhirui Deng†**\*, Clara Rus\*, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
 
 [**Project**](https://github.com/XuChen0427/FairDiverse) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A toolkit for reproducing and developing fairness- and diversity-aware Information Retrieval (IR) tasks.
