@@ -21,7 +21,7 @@ I am a 4-th year PhD student at Gaoling School of Artificial Intelligence, Renmi
 
 I graduated from Renmin University of China with a Bachelor's degree in Computer Science and Technology and a second Bachelor's degree in Data Science and Big Data Technology in 2021.
 
-My research interest includes large language model (LLM) agents, information retrieval, and recommendation systems. 
+My research interest includes large language model (LLM) agents, diversity, and information retrieval. 
 
 
 # 🔥 News
@@ -34,7 +34,7 @@ My research interest includes large language model (LLM) agents, information ret
 
 [FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms](https://arxiv.org/pdf/2502.11883)
 
-Chen Xu, **Zhirui Deng**, Clara Rus, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
+Chen Xu*, **Zhirui Deng**, Clara Rus, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
 
 [**Project**](https://github.com/XuChen0427/FairDiverse) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A toolkit for reproducing and developing fairness- and diversity-aware Information Retrieval (IR) tasks.
@@ -68,7 +68,7 @@ Chen Xu, **Zhirui Deng**, Clara Rus, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng D
 - *2024.10* Excellent Study Scholarship
 
 # 📖 Educations
-- *2021.09 - now*, PhD. student, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing. 
+- *2021.09 - now*, Ph.D. student, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing. 
 - *2017.09 - 2021.06*, Undergraduate, school of information, Renmin University of China, Beijing. 
 
 # 💬 Invited Talks
