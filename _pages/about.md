@@ -29,6 +29,18 @@ My research interest includes large language model (LLM) agents, diversity, and 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stepagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?)
+
+**Zhirui Deng**, Ruibin Xiong, Yutao Zhu, Mang Wang, Weipeng Chen, Zhicheng Dou, Ji-Rong Wen
+
+[**Project**](https://arxiv.org/pdf/2411.03817?) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- LLM Agent Policy Optimization via Step-wise Reinforcement Learning. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fairdiverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,10 +65,11 @@ Chen Xu\*, **Zhirui Deng**\*, Clara Rus\*, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhic
 </div>
 </div>
 
-- <div class="small-badge">Arxiv</div> 
-[From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?), **Zhirui Deng**, Ruibin Xiong, Yutao Zhu, Mang Wang, Weipeng Chen, Zhicheng Dou, Ji-Rong Wen
-
 - ``SIGIR2024`` [JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888)**Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
+
+- ``TOIS`` [Multi-grained Document Modeling for Search Result Diversification](https://dl.acm.org/doi/pdf/10.1145/3652852) **Zhirui Deng**, Zhicheng Dou, Zhan Su, Ji-Rong Wen
+
+- ``Information Retrieval Journal`` [DeepQFM: a deep learning based query facets mining method](https://link.springer.com/content/pdf/10.1007/s10791-023-09427-0.pdf) **Zhirui Deng**, Zhicheng Dou, Ji-Rong Wen
 
 # 🎖 Honors and Awards
 - *2024.10* Excellent Study Scholarship
