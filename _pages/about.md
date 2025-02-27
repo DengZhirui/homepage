@@ -34,7 +34,7 @@ My research interest includes large language model (LLM) agents, diversity, and 
 
 [FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms](https://arxiv.org/pdf/2502.11883)
 
-Chen Xu*, **Zhirui Deng**, Clara Rus, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
+Chen Xu†, **Zhirui Deng†**, Clara Rus†, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke
 
 [**Project**](https://github.com/XuChen0427/FairDiverse) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A toolkit for reproducing and developing fairness- and diversity-aware Information Retrieval (IR) tasks.
@@ -55,14 +55,7 @@ Chen Xu*, **Zhirui Deng**, Clara Rus, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhicheng 
 
 - [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?), **Zhirui Deng**, Ruibin Xiong, Yutao Zhu, Mang Wang, Weipeng Chen, Zhicheng Dou, Ji-Rong Wen, **Arxiv**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR2024</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-[JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888)
-
-**Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
-</div>
-</div>
+<div class="badge">SIGIR2024</div> [JDivPS: A Diversified Product Search Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657888)**Zhirui Deng**, Zhicheng Dou, Yutao Zhu, Xubo Qin, Pengchao Cheng, Jiangxu Wu, Hao Wang
 
 # 🎖 Honors and Awards
 - *2024.10* Excellent Study Scholarship
