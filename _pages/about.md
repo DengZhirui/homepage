@@ -25,11 +25,11 @@ My research interest includes large language model (LLM) agents, diversity, and 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms [arxiv](https://arxiv.org/pdf/2502.11883). 
+- *2025.04*: &nbsp;🎉🎉 FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms, received by SIGIR 2025 [paper](https://arxiv.org/pdf/2502.11883). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stepagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/stepagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://arxiv.org/pdf/2411.03817?)
@@ -41,7 +41,7 @@ My research interest includes large language model (LLM) agents, diversity, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fairdiverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/fairdiverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms](https://arxiv.org/pdf/2502.11883)
@@ -76,10 +76,8 @@ Chen Xu\*, **Zhirui Deng**\*, Clara Rus\*, Xiaopeng Ye, Yuanna Liu, Jun Xu, Zhic
 
 # 📖 Educations
 - *2021.09 - now*, Ph.D. student, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing. 
+- *2024.10 - 2025.04*, Visiting Ph.D. student, University of Amsterdam, Netherland.
 - *2017.09 - 2021.06*, Undergraduate, school of information, Renmin University of China, Beijing. 
-
-# 💬 Invited Talks
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.11 - 2024.03*, JD.com, Beijing, China.
